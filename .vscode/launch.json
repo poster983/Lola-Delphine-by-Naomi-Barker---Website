@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": "/Users/joseph/Documents/Code/Git/Lola Delphine by Naomi Barker - Website/index.html" // Provide your project's url to finish configuring
+        }
+    ]
+}
